@@ -1,4 +1,3 @@
-import React from "react";
 import Recorder from "./components/Recorder";
 import "./App.css";
 
